@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "917697126732",
+    "project_id": "humanoid-demo",
+    "storage_bucket": "humanoid-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917697126732:android:cc783dd069a8241839afe9",
+        "android_client_info": {
+          "package_name": "com.Humanoidtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917697126732-ulngs2vcj9edk031sp4dopb1tbos2ccf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Humanoidtest",
+            "certificate_hash": "11e9aeeadfd1e23f8201cec1e72f104e123ee265"
+          }
+        },
+        {
+          "client_id": "917697126732-u0ek3gd6vb84bj7a9plr8fugmilkkrjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7GksrKu-0hXGs9JeT3RQ0FS6utpwGLiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917697126732-u0ek3gd6vb84bj7a9plr8fugmilkkrjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

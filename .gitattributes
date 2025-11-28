@@ -1,0 +1,5 @@
+bundle filter=lfs diff=lfs merge=lfs -text
+so filter=lfs diff=lfs merge=lfs -text
+Humanoid-Character[[:space:]]Demo-Rehan/Assets/Prefabs/Character/fbx[[:space:]]Clean.fbx filter=lfs diff=lfs merge=lfs -text
+Humanoid-Character[[:space:]]Demo-Rehan/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_6_0.bundle filter=lfs diff=lfs merge=lfs -text
+Humanoid-Character[[:space:]]Demo-Rehan/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_6_0.so filter=lfs diff=lfs merge=lfs -text
