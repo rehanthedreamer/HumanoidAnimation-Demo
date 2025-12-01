@@ -1297,7 +1297,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SoundManager
   sfxSource: {fileID: 574560819}
-  hiAudio: {fileID: 8300000, guid: 3027a24cc717f45e6809a87cdbaf5ede, type: 3}
+  hiAudio: {fileID: 8300000, guid: 8a250ac00436f47acb139b8177bf479a, type: 3}
   sfxVolume: 1
 --- !u!4 &574560822
 Transform:
@@ -2418,6 +2418,10 @@ PrefabInstance:
     - target: {fileID: -2127677436186419716, guid: 559fcd793f2ef4ac0bcf1b7cb977732c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -0.324
+      objectReference: {fileID: 0}
+    - target: {fileID: -209264194047709549, guid: 559fcd793f2ef4ac0bcf1b7cb977732c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 559fcd793f2ef4ac0bcf1b7cb977732c, type: 3}
       propertyPath: m_Name
